@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "487937852151",
+    "firebase_url": "https://myapplication-2da77.firebaseio.com",
+    "project_id": "myapplication-2da77",
+    "storage_bucket": "myapplication-2da77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487937852151:android:cd489be3a650f66d",
+        "android_client_info": {
+          "package_name": "com.example.dellpc.notetaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487937852151-7h36pitvj9rq3jvfqlo4b8qlm734d6dc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx6KzehW_83Lh9vWTDqyyKw6oHOfPoSLs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487937852151:android:f03bce00d4cd10fe",
+        "android_client_info": {
+          "package_name": "myapplication.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487937852151-7h36pitvj9rq3jvfqlo4b8qlm734d6dc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx6KzehW_83Lh9vWTDqyyKw6oHOfPoSLs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
